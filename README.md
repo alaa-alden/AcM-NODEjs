@@ -1,7 +1,7 @@
 # AcM-NODEjs
 notes :
 1. node js is asynchronous
-2. when write var in string  by es6 use ` \` \` `
+2. when write var in string  by es6 use  \` \`
 ## out and input :
 use the class is the **process** :
 ### function :
