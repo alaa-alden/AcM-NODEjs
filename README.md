@@ -3,7 +3,7 @@
 1. node js is asynchronous
 2. when write var in string  by es6 use  \` \`
 3. may write function by use `()=> {write code here}`
-
+4. show all array by line code `array.join(' ')` 
 ## out and input  by process:
 use the class is the **process** :
 ### variable:
