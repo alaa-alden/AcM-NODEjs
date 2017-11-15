@@ -4,6 +4,10 @@
 2. when write var in string  by es6 use  \` \`
 3. may write function by use `()=> {write code here}`
 4. show all array by line code `array.join(' ')`
+5.  variable in es6:
+- **var**:The scope of a variable defined with var is function scope or declared outside any function, global.
+
+- **let**:The scope of a variable defined with let is block scope.
 ## out and input  by process:
 use the class is the **process** :
 ### variable:
